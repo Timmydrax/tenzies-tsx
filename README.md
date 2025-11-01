@@ -2,7 +2,7 @@
 
 A simple and fun dice game built with HTML, CSS, TypeScript and React. The goal is to roll until all dice show the same number. You can “hold” dice to keep their value while re-rolling the others.
 
----
+---  
 
 ## 📖 How to Play
 
@@ -13,7 +13,7 @@ A simple and fun dice game built with HTML, CSS, TypeScript and React. The goal 
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - 🎲 Roll 10 dice at once.
 - 🖱️ Click to hold/unhold dice.
